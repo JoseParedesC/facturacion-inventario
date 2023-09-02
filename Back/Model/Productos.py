@@ -1,4 +1,5 @@
 class Productos:
+    __module__:str
     codigo_producto:str
     nombre:str
     costo:int
